@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo_src</folder>
+	<filename>smakhlou_pos_007.jpg</filename>
+	<path>smakhlou_pos_007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>848</xmin>
+			<ymin>1296</ymin>
+			<xmax>2428</xmax>
+			<ymax>2880</ymax>
+		</bndbox>
+	</object>
+</annotation>

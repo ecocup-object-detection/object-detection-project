@@ -1,0 +1,26 @@
+<annotation>
+	<folder>amagnero</folder>
+	<filename>ngthithu_pos_003.jpg</filename>
+	<path>ngthithu_pos_003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>749</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>550</ymin>
+			<xmax>489</xmax>
+			<ymax>846</ymax>
+		</bndbox>
+	</object>
+</annotation>

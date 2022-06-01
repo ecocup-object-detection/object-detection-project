@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unknown</folder>
+	<filename>toczekor_pos_001.jpg</filename>
+	<path>toczekor_pos_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>524</ymin>
+			<xmax>467</xmax>
+			<ymax>751</ymax>
+		</bndbox>
+	</object>
+</annotation>

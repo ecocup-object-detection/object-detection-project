@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dif</folder>
+	<filename>lelongph_pos_002.jpg</filename>
+	<path>lelongph_pos_002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>783</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>614</xmin>
+			<ymin>16</ymin>
+			<xmax>750</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mparache</folder>
+	<filename>amagnero_pos_001.jpg</filename>
+	<path>amagnero_pos_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1008</width>
+		<height>756</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>293</ymin>
+			<xmax>550</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

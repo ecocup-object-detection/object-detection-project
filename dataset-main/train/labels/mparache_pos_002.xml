@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ngthithu</folder>
+	<filename>mparache_pos_002.jpg</filename>
+	<path>mparache_pos_002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1830</xmin>
+			<ymin>944</ymin>
+			<xmax>2450</xmax>
+			<ymax>1949</ymax>
+		</bndbox>
+	</object>
+</annotation>

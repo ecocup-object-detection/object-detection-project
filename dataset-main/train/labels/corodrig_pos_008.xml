@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Annotations</folder>
+	<filename>corodrig_pos_008.jpg</filename>
+	<path>corodrig_pos_008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>353</ymin>
+			<xmax>470</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>

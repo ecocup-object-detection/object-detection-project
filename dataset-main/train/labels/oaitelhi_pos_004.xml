@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotate</folder>
+	<filename>oaitelhi_pos_004.jpg</filename>
+	<path>oaitelhi_pos_004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>365</ymin>
+			<xmax>498</xmax>
+			<ymax>818</ymax>
+		</bndbox>
+	</object>
+</annotation>

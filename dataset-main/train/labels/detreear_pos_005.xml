@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>detreear_pos_005.jpg</filename>
+	<path>detreear_pos_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>458</ymin>
+			<xmax>908</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>taupincl</folder>
+	<filename>olahnech_pos_009.jpg</filename>
+	<path>olahnech_pos_009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1166</xmin>
+			<ymin>1594</ymin>
+			<xmax>1766</xmax>
+			<ymax>2759</ymax>
+		</bndbox>
+	</object>
+</annotation>

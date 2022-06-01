@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotate</folder>
+	<filename>aschulst_pos_009.jpg</filename>
+	<path>aschulst_pos_009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>307</ymin>
+			<xmax>289</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>

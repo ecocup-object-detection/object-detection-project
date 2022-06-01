@@ -1,0 +1,26 @@
+<annotation>
+	<folder>grallthi</folder>
+	<filename>oaitelhi_pos_001.jpg</filename>
+	<path>oaitelhi_pos_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>628</ymin>
+			<xmax>299</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

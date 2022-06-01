@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sbenarro</folder>
+	<filename>aribault_pos_005.jpg</filename>
+	<path>aribault_pos_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>883</width>
+		<height>1180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>847</ymin>
+			<xmax>546</xmax>
+			<ymax>1113</ymax>
+		</bndbox>
+	</object>
+</annotation>

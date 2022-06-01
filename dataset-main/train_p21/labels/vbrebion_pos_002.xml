@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unknown</folder>
+	<filename>vbrebion_pos_002.jpg</filename>
+	<path>vbrebion_pos_002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>266</ymin>
+			<xmax>712</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+</annotation>

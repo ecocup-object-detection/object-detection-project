@@ -1,0 +1,26 @@
+<annotation>
+	<folder>guozihen</folder>
+	<filename>maurinde_pos_009.jpg</filename>
+	<path>maurinde_pos_009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>603</xmin>
+			<ymin>104</ymin>
+			<xmax>829</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>
