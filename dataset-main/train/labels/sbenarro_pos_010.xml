@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bourimer_annotations</folder>
+	<filename>sbenarro_pos_010.jpg</filename>
+	<path>sbenarro_pos_010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>354</ymin>
+			<xmax>294</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmissaou</folder>
+	<filename>saidmoha_pos_007.jpg</filename>
+	<path>saidmoha_pos_007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4046</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1349</xmin>
+			<ymin>1706</ymin>
+			<xmax>2206</xmax>
+			<ymax>3368</ymax>
+		</bndbox>
+	</object>
+</annotation>

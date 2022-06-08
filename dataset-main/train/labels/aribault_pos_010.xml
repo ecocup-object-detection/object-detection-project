@@ -1,0 +1,26 @@
+<annotation>
+	<folder>guozihen</folder>
+	<filename>aribault_pos_010.jpg</filename>
+	<path>aribault_pos_010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>883</width>
+		<height>1180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>684</ymin>
+			<xmax>458</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>

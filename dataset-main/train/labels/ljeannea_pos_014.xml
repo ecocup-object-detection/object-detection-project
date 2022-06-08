@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SY32</folder>
+	<filename>ljeannea_pos_014.jpg</filename>
+	<path>ljeannea_pos_014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>832</width>
+		<height>1109</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>207</ymin>
+			<xmax>631</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

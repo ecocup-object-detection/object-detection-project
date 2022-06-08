@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sy32_projet_2</folder>
+	<filename>jchabbal_pos_010.jpg</filename>
+	<path>jchabbal_pos_010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1154</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>609</ymin>
+			<xmax>585</xmax>
+			<ymax>866</ymax>
+		</bndbox>
+	</object>
+</annotation>

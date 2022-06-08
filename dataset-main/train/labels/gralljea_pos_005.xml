@@ -1,0 +1,26 @@
+<annotation>
+	<folder>maxvaill</folder>
+	<filename>gralljea_pos_005.jpg</filename>
+	<path>gralljea_pos_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>863</width>
+		<height>1150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>419</ymin>
+			<xmax>545</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+</annotation>

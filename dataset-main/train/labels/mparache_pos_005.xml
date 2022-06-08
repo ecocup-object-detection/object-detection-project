@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anotations</folder>
+	<filename>mparache_pos_005.jpg</filename>
+	<path>mparache_pos_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>1395</xmin>
+			<ymin>1641</ymin>
+			<xmax>1980</xmax>
+			<ymax>2570</ymax>
+		</bndbox>
+	</object>
+</annotation>

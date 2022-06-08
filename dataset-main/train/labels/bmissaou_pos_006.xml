@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jchabbal</folder>
+	<filename>bmissaou_pos_006.jpg</filename>
+	<path>bmissaou_pos_006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>261</ymin>
+			<xmax>133</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

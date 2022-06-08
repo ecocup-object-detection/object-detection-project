@@ -1,0 +1,26 @@
+<annotation>
+	<folder>guozihen</folder>
+	<filename>smakhlou_pos_001.jpg</filename>
+	<path>smakhlou_pos_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1362</xmin>
+			<ymin>1168</ymin>
+			<xmax>2518</xmax>
+			<ymax>2787</ymax>
+		</bndbox>
+	</object>
+</annotation>

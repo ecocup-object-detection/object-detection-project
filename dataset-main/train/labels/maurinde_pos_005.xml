@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wangruim</folder>
+	<filename>maurinde_pos_005.jpg</filename>
+	<path>maurinde_pos_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>461</ymin>
+			<xmax>637</xmax>
+			<ymax>861</ymax>
+		</bndbox>
+	</object>
+</annotation>

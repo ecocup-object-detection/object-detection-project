@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>hlesobre_pos_005.jpg</filename>
+	<path>hlesobre_pos_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>391</ymin>
+			<xmax>585</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mparache</folder>
+	<filename>detreear_pos_003.jpg</filename>
+	<path>detreear_pos_003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>603</xmin>
+			<ymin>370</ymin>
+			<xmax>758</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+</annotation>

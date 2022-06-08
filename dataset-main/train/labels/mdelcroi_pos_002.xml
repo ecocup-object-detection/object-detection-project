@@ -1,0 +1,26 @@
+<annotation>
+	<folder>msarehan</folder>
+	<filename>mdelcroi_pos_002.jpg</filename>
+	<path>mdelcroi_pos_002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3468</width>
+		<height>4624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>686</xmin>
+			<ymin>1837</ymin>
+			<xmax>2216</xmax>
+			<ymax>4287</ymax>
+		</bndbox>
+	</object>
+</annotation>

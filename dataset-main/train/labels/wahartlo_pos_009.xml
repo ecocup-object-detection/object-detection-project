@@ -1,0 +1,26 @@
+<annotation>
+	<folder>olahnech</folder>
+	<filename>wahartlo_pos_009.jpg</filename>
+	<path>wahartlo_pos_009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2116</width>
+		<height>2822</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>641</xmin>
+			<ymin>619</ymin>
+			<xmax>1426</xmax>
+			<ymax>1989</ymax>
+		</bndbox>
+	</object>
+</annotation>

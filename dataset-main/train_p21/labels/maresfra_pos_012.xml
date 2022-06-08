@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pos</folder>
+	<filename>maresfra_pos_012.jpg</filename>
+	<path>maresfra_pos_012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>288</ymin>
+			<xmax>358</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

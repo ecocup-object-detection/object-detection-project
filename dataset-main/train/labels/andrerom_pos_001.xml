@@ -1,0 +1,26 @@
+<annotation>
+	<folder>amagnero</folder>
+	<filename>andrerom_pos_001.jpg</filename>
+	<path>andrerom_pos_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>168</ymin>
+			<xmax>513</xmax>
+			<ymax>805</ymax>
+		</bndbox>
+	</object>
+</annotation>

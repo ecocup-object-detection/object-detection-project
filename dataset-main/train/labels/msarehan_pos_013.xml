@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dossier</folder>
+	<filename>msarehan_pos_013.jpg</filename>
+	<path>msarehan_pos_013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1008</width>
+		<height>756</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>165</ymin>
+			<xmax>514</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

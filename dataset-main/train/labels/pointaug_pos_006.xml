@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wangruim</folder>
+	<filename>pointaug_pos_006.jpg</filename>
+	<path>pointaug_pos_006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1695</width>
+		<height>2257</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1000</xmin>
+			<ymin>1407</ymin>
+			<xmax>1359</xmax>
+			<ymax>2000</ymax>
+		</bndbox>
+	</object>
+</annotation>

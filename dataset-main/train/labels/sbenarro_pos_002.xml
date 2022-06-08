@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mparache</folder>
+	<filename>sbenarro_pos_002.jpg</filename>
+	<path>sbenarro_pos_002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>345</ymin>
+			<xmax>454</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+</annotation>
