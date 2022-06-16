@@ -3,13 +3,14 @@ import pandas as pd
 import numpy as np
 
 from sklearn.model_selection import train_test_split
-from utils import get_IoU, load_images_names
+from utils import get_IoU, load_images_names, get_ecocup_locations_from_labelized_data
 
 df = load_images_names(pos=True, neg=True)
 X_train, X_val = train_test_split(
     df["Image"], random_state=15)
-ss = cv2.ximgproc.segmentation.createSelectiveSearchSegmentation()
 
+ss = cv2.ximgproc.segmentation.createSelectiveSearchSegmentation()
+saved = False
 train_images = []
 train_labels = []
 nb_pos = 0
@@ -18,27 +19,12 @@ for i in range(len(X_train)):
     image = list(X_train)[i]
     img = cv2.imread(image)
     picture_name = image[28:-4]
+    nb_viewed += 1
+    print(nb_viewed, " File analyzed: ", picture_name)
     try:
         if "pos" in picture_name:
-            ecocup_locations = []
-            labels = pd.read_csv(
-                f"../dataset/train/labels_csv/{picture_name}.csv", header=None)
-            labels.columns = ["y", "x", "h", "w", "class"]
-            nb_viewed += 1
-            print(nb_viewed, " File analyzed: ", picture_name)
-            for label in labels.iterrows():
-                x = labels["x"][0]
-                y = labels["y"][0]
-                w = labels["w"][0]
-                h = labels["h"][0]
-                ecocup_locations.append(
-                    {
-                        "x": x,
-                        "y": y,
-                        "w": w,
-                        "h": h
-                    }
-                )
+            ecocup_locations = get_ecocup_locations_from_labelized_data(
+                picture_name)
             ss.setBaseImage(img)
             ss.switchToSelectiveSearchFast()
             ssresults = ss.process()
@@ -73,8 +59,6 @@ for i in range(len(X_train)):
                                 train_images.append(resized)
                                 train_labels.append(0)
         elif "neg" in picture_name:
-            nb_viewed += 1
-            print(nb_viewed, " File analyzed: ", picture_name)
             ss.setBaseImage(img)
             ss.switchToSelectiveSearchFast()
             ssresults = ss.process()
@@ -96,6 +80,6 @@ for i in range(len(X_train)):
     except Exception as exception:
         print(exception)
         print("error on file: ", picture_name)
-
-np.save("../train_data/train_images_full", np.array(train_images))
-np.save("../train_data/train_labels_full", np.array(train_labels))
+if saved:
+    np.save("../train_data/train_images_full", np.array(train_images))
+    np.save("../train_data/train_labels_full", np.array(train_labels))
