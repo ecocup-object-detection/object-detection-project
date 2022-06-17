@@ -1,3 +1,6 @@
+"""This file is used to generate the results on the test
+images with the VGEcocup model
+"""
 import cv2
 import pandas as pd
 import tensorflow as tf

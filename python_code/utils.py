@@ -225,7 +225,7 @@ def get_vgecocup_output(ssresults, img, classification_model):
                                      interpolation=cv2.INTER_AREA)
                 input_model = np.expand_dims(resized, axis=0)
                 classification_model_result = classification_model.predict(
-                    input_model)
+                    input_model, verbose=0)
                 if classification_model_result[0][1] > 0.9:
                     model_output.append(
                         {
