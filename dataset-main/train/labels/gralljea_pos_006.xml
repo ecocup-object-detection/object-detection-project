@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mparache</folder>
+	<filename>gralljea_pos_006.jpg</filename>
+	<path>gralljea_pos_006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>863</width>
+		<height>1150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>320</ymin>
+			<xmax>365</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+</annotation>

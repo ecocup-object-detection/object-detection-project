@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ngthithu</folder>
+	<filename>traquoch_pos_004.jpg</filename>
+	<path>traquoch_pos_004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1764</width>
+		<height>3628</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>936</ymin>
+			<xmax>749</xmax>
+			<ymax>2175</ymax>
+		</bndbox>
+	</object>
+</annotation>

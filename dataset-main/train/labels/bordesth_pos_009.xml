@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SY32 seconde partie projet</folder>
+	<filename>bordesth_pos_009.jpg</filename>
+	<path>bordesth_pos_009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>2062</ymin>
+			<xmax>2036</xmax>
+			<ymax>3021</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>2470</xmin>
+			<ymin>1799</ymin>
+			<xmax>3939</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+</annotation>

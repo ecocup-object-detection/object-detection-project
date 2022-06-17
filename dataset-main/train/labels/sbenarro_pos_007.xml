@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shiyujie</folder>
+	<filename>sbenarro_pos_007.jpg</filename>
+	<path>sbenarro_pos_007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>295</ymin>
+			<xmax>400</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

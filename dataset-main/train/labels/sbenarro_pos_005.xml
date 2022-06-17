@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dossier</folder>
+	<filename>sbenarro_pos_005.jpg</filename>
+	<path>sbenarro_pos_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>202</ymin>
+			<xmax>366</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

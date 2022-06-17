@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SY32 seconde partie projet</folder>
+	<filename>andrerom_pos_006.jpg</filename>
+	<path>andrerom_pos_006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>111</ymin>
+			<xmax>446</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>115</ymin>
+			<xmax>734</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

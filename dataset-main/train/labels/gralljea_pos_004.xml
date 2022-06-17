@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bourimer_annotations</folder>
+	<filename>gralljea_pos_004.jpg</filename>
+	<path>gralljea_pos_004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>863</width>
+		<height>1150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>393</ymin>
+			<xmax>496</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>

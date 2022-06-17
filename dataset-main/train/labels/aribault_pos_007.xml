@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SY32 seconde partie projet</folder>
+	<filename>aribault_pos_007.jpg</filename>
+	<path>aribault_pos_007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>883</width>
+		<height>1180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>311</ymin>
+			<xmax>411</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

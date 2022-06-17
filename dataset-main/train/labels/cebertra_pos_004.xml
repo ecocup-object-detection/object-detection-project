@@ -1,0 +1,26 @@
+<annotation>
+	<folder>taupincl</folder>
+	<filename>cebertra_pos_004.jpg</filename>
+	<path>cebertra_pos_004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>318</ymin>
+			<xmax>645</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+</annotation>

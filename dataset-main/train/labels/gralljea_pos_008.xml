@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>gralljea_pos_008.jpg</filename>
+	<path>gralljea_pos_008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>863</width>
+		<height>1150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>385</ymin>
+			<xmax>585</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>

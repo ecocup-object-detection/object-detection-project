@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sy32_projet_2</folder>
+	<filename>hoxuanvi_pos_002.jpg</filename>
+	<path>hoxuanvi_pos_002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>1187</ymin>
+			<xmax>1861</xmax>
+			<ymax>3262</ymax>
+		</bndbox>
+	</object>
+</annotation>

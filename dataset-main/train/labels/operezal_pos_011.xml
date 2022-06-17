@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anotations</folder>
+	<filename>operezal_pos_011.jpg</filename>
+	<path>operezal_pos_011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>775</width>
+		<height>1033</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>111</ymin>
+			<xmax>638</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pos</folder>
+	<filename>lepagesi_pos_031.jpg</filename>
+	<path>lepagesi_pos_031.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>390</ymin>
+			<xmax>615</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+</annotation>

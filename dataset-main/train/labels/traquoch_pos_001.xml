@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>traquoch_pos_001.jpg</filename>
+	<path>traquoch_pos_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>138</ymin>
+			<xmax>175</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

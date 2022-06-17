@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wangruim</folder>
+	<filename>jchabbal_pos_009.jpg</filename>
+	<path>jchabbal_pos_009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1154</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>473</ymin>
+			<xmax>717</xmax>
+			<ymax>773</ymax>
+		</bndbox>
+	</object>
+</annotation>

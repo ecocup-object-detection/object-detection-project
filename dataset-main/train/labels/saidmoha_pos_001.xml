@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lelongph</folder>
+	<filename>saidmoha_pos_001.jpg</filename>
+	<path>saidmoha_pos_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4046</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1123</xmin>
+			<ymin>1042</ymin>
+			<xmax>2100</xmax>
+			<ymax>2719</ymax>
+		</bndbox>
+	</object>
+</annotation>

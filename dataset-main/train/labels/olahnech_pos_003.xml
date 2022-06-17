@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jchabbal</folder>
+	<filename>olahnech_pos_003.jpg</filename>
+	<path>olahnech_pos_003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ecocup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>745</xmin>
+			<ymin>1470</ymin>
+			<xmax>1691</xmax>
+			<ymax>3349</ymax>
+		</bndbox>
+	</object>
+</annotation>
