@@ -1,10 +1,12 @@
+"""This file contains util functions used
+in oher code in the repository
+"""
+import os
+import random
+from typing import List, Dict, Tuple
 import cv2
 import numpy as np
-import os
 import pandas as pd
-import random
-
-from typing import List, Dict, Tuple
 
 
 def get_IoU(box1: Tuple, box2: Tuple) -> float:
@@ -73,7 +75,7 @@ def load_images_names(pos=True, neg=True) -> pd.DataFrame:
 
 def non_max_suppression(output_model: List[Dict], threshold: float, picture_name: str) -> List:
     """Apply Non Max Suppression on a list of boxes in order
-    to keep just the better bounding box as a detection 
+    to keep just the better bounding box as a detection
 
     Args:
         output_model (List[Dict]): list of dictionnaries containing
@@ -81,7 +83,7 @@ def non_max_suppression(output_model: List[Dict], threshold: float, picture_name
         threshold (float): threshold of IoU: if the box has an IoU
             bigger than the threshold with the better bounding box,
             this box will be removed.
-        picture_name (str) 
+        picture_name (str): Name of the picture considered
 
     Returns:
         List: _description_

@@ -1,8 +1,13 @@
+"""This file contains the sructure, instanciation
+and compilation of the vgecocup model. If you want to
+modify the CNN, you have to modify the function
+'get_vgecocup'
+"""
 import tensorflow as tf
 
 from keras.layers import Dense
 from keras import Model
-from tensorflow.keras.optimizers import Adam
+from keras.optimizers import Adam
 from keras.applications.vgg16 import VGG16
 
 

@@ -1,3 +1,6 @@
+"""This file is used to create data to train a classification
+model (in our case VGEcocup)
+"""
 import cv2
 import pandas as pd
 import numpy as np

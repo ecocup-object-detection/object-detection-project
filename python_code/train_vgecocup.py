@@ -1,6 +1,10 @@
+"""This file is used to train the model returned by
+get_vgecocup function with the data created by create_data
+file
+"""
 import numpy as np
 
-from tensorflow.keras.utils import to_categorical
+from keras.utils import to_categorical
 from sklearn.model_selection import train_test_split
 from vgecocup import get_vgecocup
 
