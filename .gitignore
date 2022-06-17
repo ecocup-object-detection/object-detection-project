@@ -1,2 +1,8 @@
 
 .DS_Store
+python_code/._train_vgecocup.py
+python_code/._create_data.py
+python_code/._vgecocup.py
+python_code/__pycache__/utils.cpython-39.pyc
+*.pyc
+*.pyc
